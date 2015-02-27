@@ -1,5 +1,5 @@
 # OER-strategy-with-Open-Ed-Orgs
-please add decscription here 
+please add description here 
 
 ## Who's working on it at Creative Commons?
 
