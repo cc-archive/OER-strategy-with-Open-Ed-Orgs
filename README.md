@@ -7,6 +7,8 @@ The purpose of this document / effort is to provide a concise analysis of where 
 
 https://docs.google.com/document/d/1IYDeAmw3aMxuqpfEr_7BEwM5FJiqqX1S4dzPJZQqwTY/edit#heading=h.8rvnzf78ajjb
 
+The first draft was shared at the Hewlett OER grantees meeting: tinyurl.com/oerstrategy The draft will be shared at OER15 (Wales) and Open Ed 15 (Canada) in April, 2015 for more feedback. A round of online comment opportunities will ensue and then the drafting committee will submit an updated draft for community review.
+
 ## Who's working on it at Creative Commons?
 
 | Role  | Person |
