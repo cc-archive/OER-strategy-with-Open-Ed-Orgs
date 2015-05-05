@@ -1,6 +1,12 @@
 # OER Strategy with Open Ed Orgs
 
-Drafting committee members: Nicole Allen, Delia Browne, Mary Lou Forward, Cable Green and Alek Tarkowski
+Drafting committee members:
+Nicole Allen
+Delia Browne
+Mary Lou Forward
+Cable Green
+Alek Tarkowski
+... with contributions, edits from many members of the open education community
 
 For more than a decade the movement for Open Educational Resources (OER) has evolved from a collection of small, localized efforts to a broad international network of institutions, organizations, practitioners, advocates and funders. While significant progress has been made on both expanding the availability of OER content and expanding its use, OER has not reached its full potential of entering the mainstream on a global scale.
 
