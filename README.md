@@ -1,4 +1,7 @@
 # OER Strategy with Open Ed Orgs
+
+Drafting committee members: Nicole Allen, Delia Browne, Mary Lou Forward, Cable Green and Alek Tarkowski
+
 For more than a decade the movement for Open Educational Resources (OER) has evolved from a collection of small, localized efforts to a broad international network of institutions, organizations, practitioners, advocates and funders. While significant progress has been made on both expanding the availability of OER content and expanding its use, OER has not reached its full potential of entering the mainstream on a global scale.
 
 The goals and broader vision for OER are outlined in foundational documents including the Cape Town Declaration and Paris Declaration. These documents are critical for communicating the case for OER to the outside world and providing a unifying voice for the movement. But while the goals for OER are clear and broadly agreed upon by the movement, the means and strategies for achieving them are not. To actualize the full vision of OER, a need has emerged for a document that looks inward and addresses strategic questions about how we, as the global OER movement, can reach our goals. 
